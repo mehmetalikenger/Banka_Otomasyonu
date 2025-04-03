@@ -29,7 +29,7 @@ namespace Banka_Otomasyonu_V1._1
                 }
             }
 
-            MessageBox.Show("Müşteri kaydı bulunamadı.");
+            MessageBox.Show("Müşteri kaydı bulunamadi.");
             return false;
         }
     }
